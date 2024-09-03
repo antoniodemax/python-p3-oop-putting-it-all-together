@@ -2,6 +2,7 @@
 
 
 class Shoe:
+    #
     pass
 
     def __init__(self, brand, size):
